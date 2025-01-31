@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
-## 👋 About Me 
+## :man_technologist: About Me 
 
 I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school. This GitHub page features projects from my studies, as well as previous college projects and various hobby or experimental work.
 
@@ -16,6 +13,8 @@ I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school
 ## 💻 Tech Stack
 - Languages: Golang, Python, JavaScript, TypeScript, SQL, Java
 - Frameworks & Libraries: Angular, React
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJxaDlyeTd3bXBucGJ3ZGxhbTdpeGIxMDl1ZXoyY2EybHBoZGZtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" height="150"/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -32,7 +31,7 @@ I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-  
+
 ## 📸 Project Previews
 My repositories are private, but if you're interested in something, let me know, and I can provide access. I also have older Android and Unity games yet to be uploaded. Here are a few of my projects:
 - Cars Application (Golang, zero JavaScript): A simple car data viewer that uses a local API.
