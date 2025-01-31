@@ -33,18 +33,40 @@ I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
   
-## 🌱 Latest Projects
-These are just a few of my projects. I still have others to upload, including some older Android and Unity games.
-- https://github.com/Riku148/dot-framework – A small custom frontend framework with a simple example.
-- https://github.com/Riku148/movie-game-catalog – An app for tracking watched movies, played games, etc.
-- https://github.com/Riku148/race-management-system – A program for managing race events.
-- https://github.com/Riku148/forum-app – A book forum app for like-minded readers.
-- https://github.com/Riku148/sports-finder – A sports-focused matching app.
-<!--
+## 📸 Project Previews
+My repositories are private, but if you're interested in something, let me know, and I can provide access. I also have older Android and Unity games yet to be uploaded. Here are a few of my projects:
+- Cars Application (Golang, zero JavaScript): A simple car data viewer that uses a local API.
+- Movie-Game Catalog (Angular): An app for tracking watched movies and played games, with data stored in Firebase.
+- Lions Book Forum (Golang): A book forum app for like-minded readers, using SQLite as the database.
+- Race Management System (vanilla JavaScript): A program for managing race events, powered by Socket.IO.
+
+<div align="center">
+  <h2><strong>Cars Application & Movie-Game Catalog</strong></h2>
+  <img src="https://github.com/user-attachments/assets/901821ad-397b-4272-8e62-518e2649705a" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/4f0bf579-c7d5-4e99-9cbd-6a946894b0e2" width="49%"/>
+</div>
+
+<div align="center">
+  <h2><strong>Lions Book Forum & Race Management System</strong></h2>
+  <img src="https://github.com/user-attachments/assets/f38e1cf9-482e-4ef8-b552-70d614239cdc" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/30aa4403-9340-4ce5-9ae3-41590e47b930" width="49%"/>
+</div>
+
+
+<!---
+<details>
+  <summary>📹 Click to view the Cars app in action</summary>
+
+  [![Watch the video](https://github.com/user-attachments/assets/08b0d9e5-111d-4e81-9064-0650087521d6)](https://github.com/user-attachments/assets/08b0d9e5-111d-4e81-9064-0650087521d6)
+
+</details>
+--->
+
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
--->
+--->
 ## 👀 Fun Facts
 - I can’t stand tea.
 - At one point, I owned seven PlayStation 3 consoles.
@@ -54,6 +76,8 @@ Riku148/Riku148 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riku148&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+--->
