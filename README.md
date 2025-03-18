@@ -34,10 +34,16 @@ I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school
 
 ## 📸 Project Previews
 My repositories are private, but if you're interested in something, let me know, and I can provide access. I also have older Android and Unity games yet to be uploaded. Here are a few of my projects:
-- Cars Application (Golang, zero JavaScript): A simple car data viewer that uses a local API.
+- Cars Application (100% Golang): A simple car data viewer that uses a local API.
+  > No preview available, but the gif below shows basic functionality.
 - Movie-Game Catalog (Angular): An app for tracking watched movies and played games, with data stored in Firebase.
+  > Try here: https://ng-games-1c80d.web.app/ (email: test<span>@</span>email.com / password: testaccount) (read only access).
 - Lions Book Forum (Golang): A book forum app for like-minded readers, using SQLite as the database.
+  > Try here: https://lions-forum.onrender.com/
 - Race Management System (vanilla JavaScript): A program for managing race events, powered by Socket.IO.
+  > Try here: https://race-system.onrender.com/
+- Pac-Man Multiplayer web-game (React, Node): A classic Pac-Man game with 4-player multiplayer, sounds etc.
+  > Try here: https://pacman-mp.onrender.com/
 
 <div align="center">
   <h2><strong>Cars Application & Movie-Game Catalog</strong></h2>
@@ -49,6 +55,12 @@ My repositories are private, but if you're interested in something, let me know,
   <h2><strong>Lions Book Forum & Race Management System</strong></h2>
   <img src="https://github.com/user-attachments/assets/f38e1cf9-482e-4ef8-b552-70d614239cdc" width="49%"/>
   <img src="https://github.com/user-attachments/assets/30aa4403-9340-4ce5-9ae3-41590e47b930" width="49%"/>
+</div>
+
+<div align="center">
+  <h2><strong>Pac-Man Main Menu & Ingame</strong></h2>
+  <img src="https://github.com/user-attachments/assets/8f043d25-b1e5-4753-bf60-9acee91fd009" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/a8f90adc-0825-48a0-9b7f-1f279e88a5f8" width="49%"/>
 </div>
 
 
