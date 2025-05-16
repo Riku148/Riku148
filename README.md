@@ -11,7 +11,7 @@ I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school
 - Stock markets & investing
 
 ## 💻 Tech Stack
-- Languages: Golang, Python, JavaScript, TypeScript, SQL, Java
+- Languages: Golang, Python, JavaScript, TypeScript, SQL, Java, Flutter (Dart)
 - Frameworks & Libraries: Angular, React
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJxaDlyeTd3bXBucGJ3ZGxhbTdpeGIxMDl1ZXoyY2EybHBoZGZtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" height="150"/>
@@ -29,11 +29,12 @@ I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 📸 Project Previews
-My repositories are private, but if you're interested in something, let me know, and I can provide access. I also have older Android and Unity games yet to be uploaded. Here are a few of my projects:
+## 📸 Web-Project Previews
+My repositories are private, but if you're interested in something, let me know, and I can provide access. Currently I'm working on Flutter apps (mobile development). I also have older Android and Unity game projects yet to be uploaded to Github. Here are a few of my web-projects:
 - Cars Application (100% Golang): A simple car data viewer that uses a local API.
   > No preview available, but the gif below shows basic functionality.
 - Movie-Game Catalog (Angular): An app for tracking watched movies and played games, with data stored in Firebase.
