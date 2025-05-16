@@ -33,8 +33,8 @@ I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 📸 Repository Information
-My repositories are private, but if you're interested in something, let me know, and I can provide access. Currently I'm working on Flutter apps (mobile development). I also have older Android and Unity game projects yet to be uploaded to Github. Here are a few of my web-projects:
+## 📸 Project Information
+My repositories here are private, but if you're interested in something, let me know, and I can provide access. Currently I'm working on Flutter apps (mobile development). I also have older Android and Unity game projects yet to be uploaded to Github. Here are a few of my web-projects:
 - Cars Application (100% Golang): A simple car data viewer that uses a local API.
   > No preview available, but the gif below shows basic functionality.
 - Movie-Game Catalog (Angular): An app for tracking watched movies and played games, with data stored in Firebase.
