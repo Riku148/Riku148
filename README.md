@@ -68,7 +68,7 @@ My repositories are private, but I can provide access to anyone interested. Curr
 </div>
 
 <div align="center">
-  <h2><strong>Chess Multiplayer & Artist</strong></h2>
+  <h2><strong>Chess Multiplayer & Space Escape 2D</strong></h2>
   <img src="https://github.com/user-attachments/assets/ae7fb9ad-f0da-439a-9ffc-d6aaa99d7e27" width="49%"/>
   <img src="https://github.com/user-attachments/assets/c0e2cca5-2c9b-44f2-8ccc-9ebf5da9d4e6"  width="49%"/>
 </div>
