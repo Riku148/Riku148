@@ -33,8 +33,8 @@ I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 📸 Project Information
-My repositories here are private, but if you're interested in something, let me know, and I can provide access. Currently I'm working on Flutter apps (mobile development). I also have older Android and Unity game projects yet to be uploaded to Github. Here are a few of my web-projects:
+## 📸 Project Previews
+My repositories are private, but I can provide access to anyone interested. Currently I'm working on Flutter apps (mobile development). I also have older Android and Unity game projects yet to be uploaded to Github. Below are previews of some of my web-projects:
 - Cars Application (100% Golang): A simple car data viewer that uses a local API.
   > No preview available, but the gif below shows basic functionality.
 - Movie-Game Catalog (Angular): An app for tracking watched movies and played games, with data stored in Firebase.
@@ -45,6 +45,9 @@ My repositories here are private, but if you're interested in something, let me 
   > Try here: https://race-system.onrender.com/
 - Pac-Man Multiplayer web-game (React, Node): A classic Pac-Man game with 4-player multiplayer, sounds etc.
   > Try here: https://pacman-mp.onrender.com/
+- Chess Multiplayer (Flutter, Dart): Another web socket game, this time targeting mobile devices. Data on Firebase.
+- Space Escape (Flutter, Dart): This one is a classic 2d style mobile game that utilizes the accelerometer.
+- More Flutter apps coming soon (no more games!)...
 
 <div align="center">
   <h2><strong>Cars Application & Movie-Game Catalog</strong></h2>
@@ -62,6 +65,12 @@ My repositories here are private, but if you're interested in something, let me 
   <h2><strong>Pac-Man Main Menu & Ingame</strong></h2>
   <img src="https://github.com/user-attachments/assets/8f043d25-b1e5-4753-bf60-9acee91fd009" width="49%"/>
   <img src="https://github.com/user-attachments/assets/a8f90adc-0825-48a0-9b7f-1f279e88a5f8" width="49%"/>
+</div>
+
+<div align="center">
+  <h2><strong>Chess Multiplayer & Artist</strong></h2>
+  <img src="https://github.com/user-attachments/assets/ae7fb9ad-f0da-439a-9ffc-d6aaa99d7e27" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/c0e2cca5-2c9b-44f2-8ccc-9ebf5da9d4e6"  width="49%"/>
 </div>
 
 
