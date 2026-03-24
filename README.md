@@ -1,18 +1,20 @@
 
 ## :man_technologist: About Me 
 
-I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school. This GitHub page features projects from my studies, as well as previous college projects and various hobby or experimental work.
+I’m Riku, an IT specialist with a master's degree in computer science who recently graduated from Kood/Sisu coding school. This Github page features projects from my studies, as well as previous college projects and various hobby or experimental work.
 
 ## ⚡ Interests
-- Formula 1 and other motorsports
-- Video games
+- Motorsports
+- Gaming
 - Technology
 - Astronomy
-- Stock markets & investing
+- Investing
 
 ## 💻 Tech Stack
-- Languages: Golang, Python, JavaScript, TypeScript, SQL, Java, Flutter (Dart)
+- Languages: Golang, Python, JavaScript, TypeScript, SQL, Java, Dart (Flutter)
 - Frameworks & Libraries: Angular, React
+- Mobile: Flutter, React Native, Android Studio, Xcode
+- DevOps: Docker, VMs, automation, Jenkins, ArgoCD, Kubernetes, GitOps etc.
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJxaDlyeTd3bXBucGJ3ZGxhbTdpeGIxMDl1ZXoyY2EybHBoZGZtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" height="150"/>
 
@@ -34,20 +36,21 @@ I’m Riku, a full-stack developer currently studying at Kood/Sisu coding school
 </div>
 
 ## 📸 Project Previews
-My repositories are private, but I can provide access to anyone interested. Currently I'm working on Flutter apps (mobile development). I also have older Android and Unity game projects yet to be uploaded to Github. Below are previews of some of my web-projects:
-- Cars Application (100% Golang): A simple car data viewer that uses a local API.
+The repositories are private, but I can provide access to anyone interested. I also have some older Android and Unity game projects yet to be uploaded to Github. Below are previews of some of my mobile and web-projects:
+- **Cars Application** (100% Golang): A simple car data viewer that uses a local API.
   > No preview available, but the gif below shows basic functionality.
-- Movie-Game Catalog (Angular): An app for tracking watched movies and played games, with data stored in Firebase.
+- **Movie-Game Catalog** (Angular): An app for tracking watched movies and played games, with data stored in Firebase.
   > Try here: https://ng-games-1c80d.web.app/ (email: test<span>@</span>email.com / password: testaccount) (read only access).
-- Lions Book Forum (Golang): A book forum app for like-minded readers, using SQLite as the database.
+- **Lions Book Forum** (Golang): A book forum app for like-minded readers, using SQLite as the database.
   > Try here: https://lions-forum.onrender.com/
-- Race Management System (vanilla JavaScript): A program for managing race events, powered by Socket.IO.
+- **Race Management System** (vanilla JavaScript): A program for managing race events, powered by Socket.IO.
   > Try here: https://race-system.onrender.com/
-- Pac-Man Multiplayer web-game (React, Node): A classic Pac-Man game with 4-player multiplayer, sounds etc.
+- **Pac-Man Multiplayer** web-game (React, Node): A classic Pac-Man game with 4-player multiplayer, sounds etc.
   > Try here: https://pacman-mp.onrender.com/
-- Chess Multiplayer (Flutter, Dart): Another web socket game, this time targeting mobile devices. Data on Firebase.
-- Space Escape (Flutter, Dart): This one is a classic 2d style mobile game that utilizes the accelerometer.
-- More Flutter apps coming soon (no more games!)...
+- **Chess Multiplayer** (Flutter, Dart): Another web socket game, this time targeting mobile devices. Data on Firebase.
+  > 2-player online Chess
+- **Space Escape** (Flutter, Dart): This one is a classic 2d style mobile game that utilizes the accelerometer.
+  > Classic style, endless mode is included!
 
 <div align="center">
   <h2><strong>Cars Application & Movie-Game Catalog</strong></h2>
@@ -91,6 +94,7 @@ My repositories are private, but I can provide access to anyone interested. Curr
 ## 👀 Fun Facts
 - I can’t stand tea.
 - At one point, I owned seven PlayStation 3 consoles.
+- I have over 10000 trophies on PSN.
 
 <!---
 Riku148/Riku148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
