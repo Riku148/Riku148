@@ -1,7 +1,7 @@
 
 ## :man_technologist: About Me 
 
-I’m Riku, an IT specialist with a master's degree in computer science who recently graduated from Kood/Sisu coding school. This Github page features projects from my studies, as well as previous college projects and various hobby or experimental work.
+I’m Riku, a Finnish IT specialist with a master's degree in computer science who recently graduated from Kood/Sisu coding school. This Github page features projects from my studies, as well as previous college projects and various hobby or experimental work.
 
 ## ⚡ Interests
 - Motorsports
@@ -15,6 +15,7 @@ I’m Riku, an IT specialist with a master's degree in computer science who rece
 - Frameworks & Libraries: Angular, React
 - Mobile: Flutter, React Native, Android Studio, Xcode
 - DevOps: Docker, VMs, automation, Jenkins, ArgoCD, Kubernetes, GitOps etc.
+- AI: GPT, Claude, Grok, ComfyUI, Draw Things
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJxaDlyeTd3bXBucGJ3ZGxhbTdpeGIxMDl1ZXoyY2EybHBoZGZtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" height="150"/>
 
@@ -36,7 +37,7 @@ I’m Riku, an IT specialist with a master's degree in computer science who rece
 </div>
 
 ## 📸 Project Previews
-The repositories are private, but I can provide access to anyone interested. I also have some older Android and Unity game projects yet to be uploaded to Github. Below are previews of some of my mobile and web-projects:
+Below are previews of some of my mobile and web-projects. Also, I have some older Android and Unity game projects yet to be uploaded to Github. 
 - **Cars Application** (100% Golang): A simple car data viewer that uses a local API.
   > No preview available, but the gif below shows basic functionality.
 - **Movie-Game Catalog** (Angular): An app for tracking watched movies and played games, with data stored in Firebase.
