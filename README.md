@@ -3,9 +3,10 @@
 
 I’m Riku, a Finnish IT specialist with a master's degree in computer science who recently graduated from Kood/Sisu coding school. This Github page features projects from my studies, as well as previous college projects and various hobby or experimental work.
 
-## ⚡ Interests
-- Motorsports
-- Gaming
+## ⚡ Interests and Hobbies
+- Motorsports, especially F1 and WEC
+- Speedrunning games
+- Collecting trophies/achievements
 - Technology
 - Astronomy
 - Investing
@@ -92,6 +93,45 @@ Below are previews of some of my mobile and web-projects. Also, I have some olde
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 --->
+
+## 📑 Full List of Projects (All Private Repositories)
+
+### DevOps
+- **Cloud Cartographer**: A comprehensive analysis and design report for deploying a containerized web application infrastructure on cloud platforms.
+- **GitOps Galaxy**: A GitOps-driven Kubernetes deployment platform using Helm, ArgoCD, and Jenkins CI to automate application delivery and infrastructure management.
+- **Cluster Chronicles**: Continuation to Sherlock Logs and Automation Alchemy. In this phase, the entire stack is migrated to Kubernetes, running locally on macOS using Minikube.
+- **Sherlock Logs**: The objective of Sherlock Logs is to design, implement, and automate a complete monitoring and logging solution for a multi-VM infrastructure using industry-standard DevOps tools. This project is continuation to Automation Alchemy.
+- **Automation Alchemy**: A fully automated infrastructure + CI/CD deployment using VirtualBox, Vagrant, SSH security & Jenkins. Automates what was done manually in the previous two projects Server Sorcery and Infrastructure Insight.
+- **Infrastructure Insight**: A full-stack diagnostic and monitoring application deployed across a multi-VM infrastructure. Demonstrates containerized deployment, networking, and load balancing in a virtualized Linux environment. This is continuation to Server Sorcery.
+- **Server Sorcery**: Setting up a virtualized multi-VM Linux environment for DevOps practice and demonstration from installation to hardening.
+
+### Mobile (Flutter/Dart, Native Android)
+- **Marathon Tracker**: A mobile application that monitors marathon runners in real time. It connects to a simulated data generator that streams vitals from 500 wearable devices. It tracks performance, calculates health states from vital signs, and alerts safety officials if any runner is at risk.
+- **Comms Messenger**: A real-time messaging application designed for seamless communication across mobile and web platforms.
+- **Artist**: A drawing app "Paint" designed for mobile devices. 
+- **Space Escape**: A classic style mobile 2D space shooter that uses the accelerometer. Features multiple game modes, including a training level and an endless survival mode with high score tracking.
+- **Chess MP**: A cross-platform application that allows users to play chess against others in real time or train against an AI with adjustable difficulty levels. 
+- **Jobs**: A cross-platform mobile application designed to help track different kinds of jobs and tasks.
+- **Tetris**: A classic Tetris made in native Android in college. Not here on Github.
+- **Solitaire**: A classic card game made in native Android in college. Not here on Github. 
+
+### Web Apps
+- **Pacman MP (React)**: A web-based game that brings the classic arcade experience into a competitive online setting. The game offers both single player and multiplayer modes, making it an exciting experience for casual and competitive gamers alike.
+- **Sports Finder (React)**: A full-stack recommendation platform designed to connect users based on their shared interests, preferences, and characteristics, with a focus on sports and physical activities.
+- **Dot Framework**: A lightweight, modular JavaScript framework for building single-page applications (SPAs) with minimal boilerplate. 
+- **Race Management System**: A real-time info-screen platform designed to manage and monitor races, providing critical information to spectators and staff. This MVP (Minimum Viable Product) leverages Node.js and Socket.IO for real-time data transmission.
+- **Movie Game Catalog (Angular)**: An application that helps users keep track of watched movies, TV series, and played games. It uses Firebase as a database.
+- **Food App (React)**: A simple React-based food application that fetches recipe data from the Spoonacular API based on user searches. Users can save items to favorites, and the theme of the page can be changed.
+
+### Golang
+- **Forum App**: A web-based platform created to facilitate meaningful discussions among members of the "Literary Lions" book club. 
+- **Stations Pathfinder**: A program designed to find the most efficient paths for trains traveling from one station to another. 
+- **Cars App**: A web application that uses a local API to provide data about cars. The application allows users to browse a collection of cars, view their specifications, and compare selected models. 
+- **Art Tool**: A text decoder utility designed to convert strings into "art" or vice versa.
+- **Flight Data Tool**: A program designed to convert flight itineraries into a more user-friendly format.
+- **Notes Tool**: A command-line program for creating and managing notes, stored in text files.
+- **Cypher Tool**: A program that performs encryption and decryption operations. It can take plaintext and convert it into ciphertext using a specific algorithm (encryption), and vice versa (decryption).
+
 ## 👀 Fun Facts
 - I can’t stand tea.
 - At one point, I owned seven PlayStation 3 consoles.
